@@ -560,7 +560,6 @@
                 </div>
             </div>
         </div>
-        <h1>meow</h1>
     </section>
 
     <!-- Access Your Dashboard -->
